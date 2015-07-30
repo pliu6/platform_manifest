@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="peng"
-           fetch="https://github.com/pliu6" />
+           fetch="git://github.com/pliu6" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
